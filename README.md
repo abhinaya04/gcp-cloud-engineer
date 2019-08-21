@@ -18,7 +18,7 @@ chmod +x update.sh
 Please feel free to read through this update script before you run it.
 
 
-## Following along with commands
+## Following along with commands ##
 
 Some of the commands we run in the labs can be a bit long and finicky.  To help you not trip on the typing, many of the commands are available in supporting files in this repo.  Since the whole point of doing the course is to learn, though, try to understand what the command actually does.  Do not just copy-paste it and move on.
 
